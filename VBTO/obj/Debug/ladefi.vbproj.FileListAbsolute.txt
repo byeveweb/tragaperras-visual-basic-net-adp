@@ -1,0 +1,15 @@
+C:\Users\asus_\source\repos\ladefi\bin\Debug\ladefi.exe.config
+C:\Users\asus_\source\repos\ladefi\bin\Debug\ladefi.exe
+C:\Users\asus_\source\repos\ladefi\bin\Debug\ladefi.pdb
+C:\Users\asus_\source\repos\ladefi\bin\Debug\ladefi.xml
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.Form1.resources
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.Resources.resources
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.vbproj.GenerateResource.cache
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.vbproj.CoreCompileInputs.cache
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.exe
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.xml
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.pdb
+C:\Users\asus_\source\repos\ladefi\bin\Debug\Database1.mdf
+C:\Users\asus_\source\repos\ladefi\bin\Debug\Database1_log.ldf
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.vbprojAssemblyReference.cache
+C:\Users\asus_\source\repos\ladefi\obj\Debug\ladefi.Form2.resources
